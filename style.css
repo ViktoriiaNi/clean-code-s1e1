@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.hero .more-inf {
+.hero .hero__more-inf {
   font-family: fantasy, cursive;
 }
 
